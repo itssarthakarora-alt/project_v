@@ -2,21 +2,21 @@
  <html lang="en">
 
  <head>
-     <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.min.css">
-     <link rel="stylesheet" type="text/css" href="public/assets/css/jquery-ui-1.10.0.custom.min.css">
-     <link rel="stylesheet" type="text/css" href="public/assets/css/style.css">
-     <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.min.css">
-     <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.min.css">
-     <link rel="stylesheet" type="text/css" href="public/assets/css/newlogon2.css">
-     <script type="text/javascript" src="public/assets/js/jquery.min.js"></script>
-     <script type="text/javascript" src="public/assets/js/bootstrap.bundle.min.js"></script>
-     <script type="text/javascript" src="public/assets/js/jquery-ui-1.10.0.custom.min.js"></script>
-     <script type="text/javascript" src="public/assets/js/jquery.noty.js"></script>
-     <script type="text/javascript" src="public/assets/js/center.js"></script>
-     <script type="text/javascript" src="public/assets/js/bottomRight.js"></script>
-     <script type="text/javascript" src="public/assets/js/default.js"></script>
-     <script type="text/javascript" src="public/assets/js/core.js"></script>
-     <script type="text/javascript" src="public/assets/js/bootstrap-datepicker.js"></script>
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/bootstrap.min.css">
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/jquery-ui-1.10.0.custom.min.css">
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/style.css">
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/font-awesome.min.css">
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/font-awesome.min.css">
+     <link rel="stylesheet" type="text/css" href="../public/assets/css/newlogon2.css">
+     <script type="text/javascript" src="../public/assets/js/jquery.min.js"></script>
+     <script type="text/javascript" src="../public/assets/js/bootstrap.bundle.min.js"></script>
+     <script type="text/javascript" src="../public/assets/js/jquery-ui-1.10.0.custom.min.js"></script>
+     <script type="text/javascript" src="../public/assets/js/jquery.noty.js"></script>
+     <script type="text/javascript" src="../public/assets/js/center.js"></script>
+     <script type="text/javascript" src="../public/assets/js/bottomRight.js"></script>
+     <script type="text/javascript" src="../public/assets/js/default.js"></script>
+     <script type="text/javascript" src="../public/assets/js/core.js"></script>
+     <script type="text/javascript" src="../public/assets/js/bootstrap-datepicker.js"></script>
      <title>VClub</title>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="onion-location"
@@ -135,7 +135,7 @@
                 <!-- ADMIN TEMPLACE -->
 
                 Balance: <strong class="" style="font-size:14px;color:">LOCKED</strong>&nbsp;&nbsp;<a
-                    href="operations/topup" title="Add money to balance"><img src="public/assets/images/icons/add.png"
+                    href="operations/topup" title="Add money to balance"><img src="../public/assets/images/icons/add.png"
                         alt="Add money to balance" /></a>
             </div>
         </div>
@@ -295,7 +295,7 @@
   <ul class="nav nav-tabs" role="menu">
     <li class="nav-item">
       <a data-toggle="tab" class="active nav-link" tabindex="-1" role="tab" href="#bitcoin">
-        <img style="width:16px;" src="public/assets/images/icons/btc.png"> BITCOIN
+        <img style="width:16px;" src="../public/assets/images/icons/btc.png"> BITCOIN
       </a>
     </li>
     <li class="nav-item">
