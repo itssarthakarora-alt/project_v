@@ -1,6 +1,5 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Get the submitted username and password
     $username = $_POST["login"];
     $password = $_POST["password"];
 
